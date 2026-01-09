@@ -13,5 +13,4 @@
 * Sistema de favoritos
 * Busca por nome da bebida
 * Integração com API externa
-![Imagem do projeto](https://mixologynews.com.br/wp-content/uploads/2016/01/brasil-drinks-1.jpg)
-
+![Image](https://github.com/user-attachments/assets/e68b8955-ef6f-4a29-893a-b08f1168c327)
